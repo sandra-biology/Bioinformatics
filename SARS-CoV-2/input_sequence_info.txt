@@ -1,0 +1,10 @@
+Accession number	Variant description	Coding/viral
+ON994285		Omicron BA.5.5		coding
+ON994280		Omicron BA.2.12.1	coding
+ON981506		Omicron BA.2.12.1	viral
+ON978956		Omicron BA.4		viral
+ON998981		Omicron BA.1.20		viral
+ON978962		Omicron BA.5.6		viral
+ON978949		Omicron BA.5.1		viral
+ON9998286		Omicron BA.2.3		viral
+ON978968		Omicron BF.8		viral
