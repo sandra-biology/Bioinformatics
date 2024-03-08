@@ -3,6 +3,7 @@
 - WGS (whole genome sequencing) project
     - I am using whole genome sequencing data I obtained from Parkinson's Progressive Marker Initiative study
     - my work with this project is similar to what I was doing as a Bioinformatics Analyst at Indiana University
+    - for full details, see https://github.com/sandra-biology/Bioinformatics/blob/main/WGS/README.md
 
 - SARS-CoV-2 project
     - this project is on virus which causes COVID-19
