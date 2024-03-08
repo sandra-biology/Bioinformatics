@@ -11,3 +11,7 @@ This folder contains the following file types:
 Tools I am using:
 - BLAST (Basic Local Alignment Search Tool): I am using the web version at this point
 - Galaxy Software
+
+New idea: pivot back to BLAST
+- obtain viral and coding sequences for the other COVID-19 variants (right now I have sequences for the Omicron variants)
+- pairwise alignments between the variants
