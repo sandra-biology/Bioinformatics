@@ -1,1 +1,1 @@
-# Bioinformatics
+This repository contains the work I am doing on my bioinformatics projects. In WGS part of the repository (https://github.com/sandra-biology/Bioinformatics/tree/main/WGS), I am using data I obtained from Parkinson's Progressive Marker Intiative study to annotate data and pull out different variants (functional, pathogenic, non-pathogenic). The SARS-CoV-2 part of the repository is my most recent project with SARS-CoV-2 virus and coding sequence data. I am working toward finding sequence that led to the changes we saw with the spike protein.
